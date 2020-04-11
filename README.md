@@ -1,5 +1,8 @@
 # apps
-## vue +element ui
+## vue +element ui 
+```
+还有弹幕组件和吸顶组件没写
+```
 ## Project setup
 ```
 npm install
